@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "homepage": "https://Dazzdeabs.github.io/repo"
+  "name": "repo",
+  "homepage": "https://Dazzdeabs.github.io/repo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
