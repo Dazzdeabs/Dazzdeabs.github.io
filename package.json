@@ -30,3 +30,8 @@
     "not op_mini all"
   ]
 }
+
+"scripts":{
+ "predeploy": "npm run build",
+ "deploy": "gh-pages -d build",
+}
